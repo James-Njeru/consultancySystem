@@ -1,0 +1,14 @@
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\bin\Debug\Consultancy.exe.config
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\bin\Debug\Consultancy.exe
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\bin\Debug\Consultancy.pdb
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.csprojResolveAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.Consultancy.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.Login.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.Properties.Resources.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.Scores.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.Student.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.University.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.csproj.GenerateResource.Cache
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.exe
+c:\users\jimmy\documents\visual studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.pdb
+C:\Users\jimmy\Documents\Visual Studio 2012\Projects\Consultancy\Consultancy\obj\Debug\Consultancy.Dashboard.resources
